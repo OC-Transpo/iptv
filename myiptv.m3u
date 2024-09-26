@@ -202,8 +202,6 @@ https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="English",Billiards TV
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="時代劇専門チャンネル" tvg-id="10727" tvg-country="日本" tvg-language="日語" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021135075050_13.png" group-title="日本",[SD]時代劇専門チャンネル
-https://stream1.freetv.fun/shi-dai-ju-zhuan-men-chiyanneru-1.m3u8
 #EXTINF:-1 tvg-id="CGNTVJapan.jp" group-title="日本",CGNTV Japan (1080p)
 https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.jp" group-title="日本",Disney Junior Japan (400p)
