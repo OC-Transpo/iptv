@@ -105,8 +105,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-id="368369" tvg-country="China" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="中国",[HD]明珠
 https://stream1.freetv.fun/ming-zhu-4.ctv
-
-#EXTINF:-1 tvg-name="HGTV" tvg-id="9118" tvg-country="美國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007153647629307_20.png" group-title="English",[BD]hgtv
+#EXTINF:-1 group-title="English",HGTV
 https://stream1.freetv.fun/hgtv-2.m3u8
 #EXTINF:-1 group-title="English",BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
