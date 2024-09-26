@@ -227,8 +227,6 @@ https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp" group-title="日本",TBS (540p)
 https://tbs4.mov3.co/hls/tbs.m3u8
 
-#EXTINF:-1 tvg-name="華視 CTS" tvg-id="" group-title="臺灣",CTS (HUA-CHI CTS) (1080p)
-rtmp://59.124.75.138:1935/sat/tv111
 #EXTINF:-1 tvg-id="TVBSAsia.tw" group-title="臺灣",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalNews.tw" group-title="臺灣",寰宇新聞頻道 (1080p)
