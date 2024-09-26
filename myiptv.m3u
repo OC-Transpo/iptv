@@ -103,7 +103,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="中国",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-id="368369" tvg-country="China" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="中国",[HD]明珠
+#EXTINF:-1 tvg-name="CGTN" tvg-id="368369" tvg-country="China" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="中国",CGTN
 https://stream1.freetv.fun/ming-zhu-4.ctv
 #EXTINF:-1 group-title="English",HGTV
 https://stream1.freetv.fun/hgtv-2.m3u8
