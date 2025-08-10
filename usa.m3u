@@ -7,5 +7,6 @@ https://stream1.freetv.fun/hgtv-5.ctv
 https://stream1.freetv.fun/food-network--wj-1.ctv
 #EXTINF:-1 tvg-id="GSN" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="Entertainment",Game Show Network East (720p)
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
-
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png", TLC (720P)
+https://stream1.freetv.fun/tlc-3.m3u8
 
