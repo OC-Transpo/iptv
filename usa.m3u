@@ -11,4 +11,5 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 https://stream1.freetv.fun/tlc-3.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central East (720p)
 https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-
+#EXTINF:-1 tvg-id="CTVSpeed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Updated_CTV_Speed_Channel_Logo.png/250px-Updated_CTV_Speed_Channel_Logo.png", CTV Speed (720P)
+https://stream1.freetv.fun/discovery-life-4.ctv
