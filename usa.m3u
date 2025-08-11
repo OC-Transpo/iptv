@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HLNLogo2023.svg/250px-HLNLogo2023.svg.png", HLN (720P)
 https://stream1.freetv.fun/hln-3.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/250px-HGTV_2010.svg.png", HGTV (720P)
-https://stream1.freetv.fun/hgtv--r-1.ctv
+https://stream1.freetv.fun/hgtv-9.ctv
 #EXTINF:-1 tvg-id="FoodNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/250px-Food_Network_New_Logo.png", Food Network (1080P)
 https://stream1.freetv.fun/food-network--wj-1.ctv
 #EXTINF:-1 tvg-id="GSN" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="Entertainment",Game Show Network East (720p)
@@ -13,3 +13,4 @@ https://stream1.freetv.fun/tlc-3.m3u8
 https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="CTVSpeed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Updated_CTV_Speed_Channel_Logo.png/250px-Updated_CTV_Speed_Channel_Logo.png", CTV Speed (720P)
 https://stream1.freetv.fun/discovery-life-4.ctv
+
