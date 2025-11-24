@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HLNLogo2023.svg/250px-HLNLogo2023.svg.png", HLN (720P)
 https://stream1.freetv.fun/hln-3.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/250px-HGTV_2010.svg.png", HGTV (720P)
-https://stream1.freetv.fun/hgtv--m-2.ctv
+https://stream1.freetv.fun/hgtv-7.ctv
 #EXTINF:-1 tvg-id="FoodNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/250px-Food_Network_New_Logo.png", Food Network (1080P)
-https://stream1.freetv.fun/food-network-11.ctv
+https://stream1.freetv.fun/food-network-7.ctv
 #EXTINF:-1 tvg-id="GSN" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="Entertainment",Game Show Network East (720p)
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png", TLC (720P)
@@ -25,6 +25,7 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a
 #EXTINF:-1 tvg-id="WNetwork.ca@East" tvg-logo="https://i.imgur.com/t7XdBh8.png",W Network (720p)
 https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+
 
 
 
